@@ -2,9 +2,9 @@
 
 ## [Unreleased]
 
-## [0.1.0] - 2026-06-08
+## [0.1.1] - 2026-06-08
 
-Initial public release of `@twilic/fetch`.
+Initial public release of `@twilic/fetch`. Version 0.1.0 was published locally without npm trusted publishing and is not part of the canonical release line.
 
 ### Added
 
